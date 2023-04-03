@@ -1,0 +1,15 @@
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\obj\Debug\net6.0\ReliableDownloader.csproj.AssemblyReference.cache
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\obj\Debug\net6.0\ReliableDownloader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\obj\Debug\net6.0\ReliableDownloader.AssemblyInfoInputs.cache
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\obj\Debug\net6.0\ReliableDownloader.AssemblyInfo.cs
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\obj\Debug\net6.0\ReliableDownloader.csproj.CoreCompileInputs.cache
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\bin\Debug\net6.0\ReliableDownloader.exe
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\bin\Debug\net6.0\ReliableDownloader.deps.json
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\bin\Debug\net6.0\ReliableDownloader.runtimeconfig.json
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\bin\Debug\net6.0\ReliableDownloader.dll
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\bin\Debug\net6.0\ref\ReliableDownloader.dll
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\bin\Debug\net6.0\ReliableDownloader.pdb
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\obj\Debug\net6.0\ReliableDownloader.dll
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\obj\Debug\net6.0\ref\ReliableDownloader.dll
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\obj\Debug\net6.0\ReliableDownloader.pdb
+D:\Code\.NET\Accurx\Reliable-downloader\dot-net\ReliableDownloader\obj\Debug\net6.0\ReliableDownloader.genruntimeconfig.cache
