@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zRO/lcrRr/v7FDwCkKUUdkYjAQttuaZdGHsrundw2xYX7YJeNE21C+n7/hmFpTLMtSqOdRLz9Zlk9xJlVnZVsw==",
+  "dgSpecHash": "2yaUD/0qpzHRtu1+OCW3u0A/SMHry/ulZGpbCB1oMA0Hay34hr8prxBOkM1aqdo0/9Y6qXljEfwaQzv8P7OeFg==",
   "success": true,
-  "projectFilePath": "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader\\ReliableDownloader.csproj",
+  "projectFilePath": "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader\\ReliableDownloader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -23,7 +23,9 @@ namespace ReliableDownloader
 
         public void CreateFile(string path)
         {
-            File.Create(path);
+            var fs = File.Create(path);
+            fs.Close();
+
         }
 
         public void DeleteFile(string path)

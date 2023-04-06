@@ -28,9 +28,12 @@ public class FileDownloader : IFileDownloader
     {
         ProgressChanged progress = onProgressChanged.Invoke;
         progressChangedEvent += progress;
-        //get file content length for marking progress
+
         CancellationTokenSource = new CancellationTokenSource();
-        TotalFileLength = GetContentLength(contentFileUrl).Result;
+
+        //check the required header properties like file content length for marking progress and partial download 
+        await ValidateHeaderContent(contentFileUrl);
+
         HttpResponseMessage result;
 
         if(TotalFileLength <= 0)
@@ -71,8 +74,8 @@ public class FileDownloader : IFileDownloader
         }
         catch (Exception ex)
         {
-            return false;
             Console.WriteLine(ex.Message);
+            return false;
         }
 
         if(fileSystem.GetFileInfo(localFilePath).Length == TotalFileLength)
@@ -92,11 +95,11 @@ public class FileDownloader : IFileDownloader
         }
     }
 
-    private async Task<long> GetContentLength(string url)
+    private async Task ValidateHeaderContent(string url)
     {
         var response = await webSystemCalls.GetHeadersAsync(url, new System.Threading.CancellationToken());
         AllowPartialDownload = response.Headers.AcceptRanges.Contains("Bytes");
-        return response.Content.Headers.ContentLength ?? -1L;
+        TotalFileLength = response.Content.Headers.ContentLength ?? -1L;
     }
 
     private async Task WriteToFile(string path, HttpResponseMessage response)

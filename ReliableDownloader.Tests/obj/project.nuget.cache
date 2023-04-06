@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+GmU4CobBGiM4VeWNM6GFY4SW5sSb8UGey147aW529AkaSYRBKXvE5tWfMr/AZolw74oqSeQleppTYO1CXMcgQ==",
+  "dgSpecHash": "opJquZ7XY6HQdp+hNdAWlchX6INjWCIWlscYSdoaDUvU4BfRJpn3rkpQtX8lTyoYbyBdhMmo8OAFBxXzFsTp8A==",
   "success": true,
-  "projectFilePath": "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj",
+  "projectFilePath": "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nehar\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\nehar\\.nuget\\packages\\microsoft.codecoverage\\17.4.0\\microsoft.codecoverage.17.4.0.nupkg.sha512",

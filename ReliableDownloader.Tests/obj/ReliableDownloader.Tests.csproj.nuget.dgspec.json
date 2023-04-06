@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj": {}
+    "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj": {
+    "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj",
+        "projectUniqueName": "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj",
         "projectName": "ReliableDownloader.Tests",
-        "projectPath": "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj",
+        "projectPath": "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader.Tests\\ReliableDownloader.Tests.csproj",
         "packagesPath": "C:\\Users\\nehar\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader.Tests\\obj\\",
+        "outputPath": "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader\\ReliableDownloader.csproj": {
-                "projectPath": "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader\\ReliableDownloader.csproj"
+              "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader\\ReliableDownloader.csproj": {
+                "projectPath": "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader\\ReliableDownloader.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader\\ReliableDownloader.csproj": {
+    "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader\\ReliableDownloader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader\\ReliableDownloader.csproj",
+        "projectUniqueName": "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader\\ReliableDownloader.csproj",
         "projectName": "ReliableDownloader",
-        "projectPath": "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader\\ReliableDownloader.csproj",
+        "projectPath": "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader\\ReliableDownloader.csproj",
         "packagesPath": "C:\\Users\\nehar\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\.NET\\Accurx\\Reliable-downloader\\dot-net\\ReliableDownloader\\obj\\",
+        "outputPath": "D:\\Code\\.NET\\Accurx\\dot-net\\FileDownloader\\ReliableDownloader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
